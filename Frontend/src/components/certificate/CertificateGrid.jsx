@@ -17,28 +17,28 @@ const certificates = [
     category: "Programming",
     icon: <FaJava />,
     issuer: "Course Certificate",
-    link: "public/Certificates/JavaBeginner.png",
+    link: "/Certificates/JavaBeginner.png",
   },
   {
     title: "Advanced Java",
     category: "Programming",
     icon: <FaJava />,
     issuer: "Course Certificate",
-    link: "public/Certificates/DSusingJAVA.png",
+    link: "/Certificates/DSusingJAVA.png",
   },
   {
     title: "Python",
     category: "Programming",
     icon: <FaPython />,
     issuer: "Course Certificate",
-    link: "public/Certificates/Python.pdf",
+    link: "/Certificates/Python.pdf",
   },
   {
     title: "Design Thinking",
     category: "Innovation",
     icon: <FaAward />,
     issuer: "Training Program",
-    link: "public/Certificates/Thinking.jpg",
+    link: "/Certificates/Thinking.jpg",
   },
   {
     title: "Dextrix Hackathon Participation",
@@ -52,28 +52,28 @@ const certificates = [
     category: "Data Structures & Algorithms",
     icon: <FaLaptopCode />,
     issuer: "Learning Certificate",
-    link: "public/Certificates/ApnaCollege.jpg",
+    link: "/Certificates/ApnaCollege.jpg",
   },
   {
     title: "CodSoft Internship Completion",
     category: "Internship",
     icon: <FaCertificate />,
     issuer: "Internship Certificate",
-    link: "public/Certificates/codsoft.jpg",
+    link: "/Certificates/codsoft.jpg",
   },
   {
     title: "YHills Training Certificate",
     category: "Training",
     icon: <FaUserGraduate />,
     issuer: "Training Certificate",
-    link: "public/Certificates/YhillsCourse.jpg",
+    link: "/Certificates/YhillsCourse.jpg",
   },
   {
     title: "YHills Internship Completion",
     category: "Internship",
     icon: <FaCertificate />,
     issuer: "Internship Certificate",
-    link: "public/Certificates/YhillsIntern.jpg",
+    link: "/Certificates/YhillsIntern.jpg",
   },
   {
     title: "Software Testing",
@@ -87,14 +87,14 @@ const certificates = [
     category: "Career Development",
     icon: <FaAward />,
     issuer: "Program Certificate",
-    link: "public/Certificates/Accenture.jpg",
+    link: "/Certificates/Accenture.jpg",
   },
   {
     title: "National Financial Literacy Quiz",
     category: "Career Development",
     icon: <FaAward />,
     issuer: "Program Certificate",
-    link: "public/Certificates/Quiz.jpg",
+    link: "/Certificates/Quiz.jpg",
   },
 
   {
@@ -102,7 +102,7 @@ const certificates = [
     category: "Database Design",
     icon: <FaAward />,
     issuer: "Technical Certificate",
-    link: "public/Certificates/Oracle.jpg",
+    link: "/Certificates/Oracle.jpg",
   }
 
 ];
